@@ -1,5 +1,5 @@
-/ConsoleApp1/ConsoleApp1/bin
-/ConsoleApp1/ConsoleApp1/obj
-/ConsoleApp1/ConsoleApp1Tests/bin
-/ConsoleApp1/ConsoleApp1Tests/obj
-/ConsoleApp1/.vs
+/ConsoleApp1/bin
+/ConsoleApp1/obj
+/ConsoleApp1Tests/bin
+/ConsoleApp1Tests/obj
+/.vs
